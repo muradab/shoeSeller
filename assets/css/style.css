@@ -1,1 +1,7 @@
-font-family : {'Gloria Hallelujah', cursive;}
+footer{
+   height: auto; 
+   margin-top: 25px;
+   margin-bottom: 0px;
+   background: #000 important;
+   list-style-type: none;
+}
